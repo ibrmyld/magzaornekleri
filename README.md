@@ -1,0 +1,2 @@
+# magzaornekleri
+sanal magaza ornegi
